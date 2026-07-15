@@ -1,0 +1,10 @@
+# Release installers are uploaded as GitHub Release assets.
+*.exe
+*.zip
+*.msi
+
+# Local files
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
