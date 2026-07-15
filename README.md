@@ -6,7 +6,7 @@ Voron RP2040 is a configurable keyboard and mouse HID keypad based on RP2040. Th
 
 ## Download
 
-Open the [Releases](../../releases) page and download the latest Windows installer:
+Open the [Releases](https://github.com/edpol770-spec/Voron-RP2040-Releases/releases) page and download the latest Windows installer:
 
 `Voron-RP2040-Configurator-0.9.0-beta-Setup.exe`
 
